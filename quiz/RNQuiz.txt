@@ -1,0 +1,26 @@
+Question: What did the Red Knot enjoy eating, causing the score to increase?
+A) Pizza.
+B) Flies.
+C) Snails.
+D) Both B and C.
+D
+Question: Where was the Red Knot Flying to?
+A) Canada.
+B) Mexico.
+C) United States.
+D) Japan.
+C
+Question: What did the Red Knot not enjoy, causing the score to decrease?
+A) Snails.
+B) Cars.
+C) Planes.
+D) Both B and C.
+D
+Question: What gave the Red Knot a BIG score increase?
+A) Golden Eggs (Horseshoe Crab Eggs).
+B) Pizza.
+C) Cars.
+D) Planes.
+A
+
+
